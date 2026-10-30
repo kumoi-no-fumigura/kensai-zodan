@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/kensai-zodan",
  "yomi": "けんさいぞうだん",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "歌学書（聞書）",
+  "era": "室町後期",
+  "author": "猪苗代兼載（談）",
+  "desc": "連歌師猪苗代兼載の談話を書き留めたもの。賀茂祭の葵、吉野の桜など歌語や名所の故実を一つ書きで記し、歌詞の用い方も述べる。奥に兼純に付与したとある。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -229,6 +234,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:05:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
